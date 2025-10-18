@@ -1,6 +1,6 @@
 transformers==4.57.0
 datasets==4.2.0
 sacrebleu==2.5.1
-ubabel-comet==2.2.7
+unbabel-comet==2.2.7
 mbrs==0.1.7
 tqdm==4.67.1
